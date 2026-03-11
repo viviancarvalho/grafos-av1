@@ -1,4 +1,6 @@
 # grafos-av1
+Trabalho de AV1 para disciplina de Grafos - 5 SEM 
+
 Cenário: Rede social (Direcionado e ponderado)
 
 • Entrada: Lista de adjacência
