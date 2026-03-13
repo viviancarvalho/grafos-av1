@@ -16,7 +16,7 @@ O sistema foi desenvolvido como parte de um trabalho acadêmico de **Teoria dos 
 
 # Funcionalidades
 
-## 1️⃣ Visualização do Grafo
+## Visualização do Grafo
 
 O grafo é exibido utilizando **GraphStream**, com layout automático.
 
@@ -176,7 +176,7 @@ carla fernanda
 
 ---
 
-# 🗂 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```
 Av1.java
@@ -203,7 +203,7 @@ construirGraphStream()
 
 ---
 
-# ⚙️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - **Java**
 - **GraphStream**
@@ -212,7 +212,7 @@ construirGraphStream()
 
 ---
 
-# 📦 Dependência
+# Dependência
 
 Biblioteca necessária:
 
@@ -231,7 +231,7 @@ https://graphstream-project.org/
 ## 1️⃣ Clonar o repositório
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/viviancarvalho/grafos-av1
 ```
 
 ---
@@ -265,7 +265,7 @@ java Av1
 
 ---
 
-# 📷 Exemplo de Uso
+# Exemplo de Uso
 
 Entrada de arestas:
 
@@ -297,7 +297,7 @@ O programa:
 
 ---
 
-# 🎓 Objetivos Educacionais
+# Objetivos Educacionais
 
 Este projeto demonstra na prática:
 
