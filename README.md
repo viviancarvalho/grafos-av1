@@ -310,5 +310,5 @@ Este projeto demonstra na prática:
 ---
 
 #  Autor
-Vivian Carvalho de Abreu Matos
+Vivian Carvalho de Abreu Matos  
 Projeto desenvolvido para disciplina de **Grafos**.
