@@ -10,7 +10,7 @@ A aplicação permite:
 - Gerar um **relatório analítico completo do grafo**
 - Realizar uma **análise investigativa da rede** (identificação de hubs e amigos a dois passos)
 
-O sistema foi desenvolvido como parte de um trabalho acadêmico de **Teoria dos Grafos / Estruturas de Dados**.
+O sistema foi desenvolvido como parte de um trabalho acadêmico da disciplina **Resolução de problemas com grafos**.
 
 ---
 
